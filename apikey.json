@@ -1,0 +1,10 @@
+{"Apis": [
+  {
+    "TelegramBotApi":"TelegramBotApi"
+  },
+  {
+    "CoinMarketcapApi":"CoinMarketCapApi"
+  }
+]
+
+}
